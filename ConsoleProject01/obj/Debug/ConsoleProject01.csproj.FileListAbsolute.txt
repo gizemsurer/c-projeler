@@ -1,0 +1,7 @@
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\bin\Debug\ConsoleProject1.exe.config
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\bin\Debug\ConsoleProject1.exe
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\bin\Debug\ConsoleProject1.pdb
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\obj\Debug\ConsoleProject01.csprojAssemblyReference.cache
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\obj\Debug\ConsoleProject01.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\obj\Debug\ConsoleProject1.exe
+C:\Users\Section2\Source\Repos\gizemsurer\c-projeler\ConsoleProject01\obj\Debug\ConsoleProject1.pdb

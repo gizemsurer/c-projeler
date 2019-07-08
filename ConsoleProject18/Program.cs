@@ -21,12 +21,12 @@ namespace ConsoleProject18
 
             for (int i=1;i<=satir; i++)
             {
-                for(int j=1;j<sutun;j++)
+                for(int j=1;j<=sutun;j++)
                 {
                     Console.Write("x");
                     
                 }
-                Console.WriteLine("x");
+                Console.WriteLine();
                 
             }
             Console.ReadLine();
