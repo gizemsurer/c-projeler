@@ -1,0 +1,6 @@
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\bin\Debug\ConsoleAppgi.exe.config
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\bin\Debug\ConsoleAppgi.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\bin\Debug\ConsoleAppgi.pdb
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\obj\Debug\ConsoleProject07.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\obj\Debug\ConsoleAppgi.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject07\obj\Debug\ConsoleAppgi.pdb
