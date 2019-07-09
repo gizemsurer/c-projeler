@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.exe.config
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\bin\Debug\ConsoleProject25.pdb
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject25\obj\Debug\ConsoleProject25.pdb

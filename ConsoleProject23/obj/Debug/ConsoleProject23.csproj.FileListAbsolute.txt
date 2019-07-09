@@ -1,0 +1,7 @@
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\bin\Debug\ConsoleProject23.exe.config
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\bin\Debug\ConsoleProject23.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\bin\Debug\ConsoleProject23.pdb
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\obj\Debug\ConsoleProject23.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\obj\Debug\ConsoleProject23.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\obj\Debug\ConsoleProject23.exe
+C:\Users\Section2\source\repos\01072019_ConsoleApp\ConsoleProject23\obj\Debug\ConsoleProject23.pdb
