@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\bin\Debug\ConsoleProject38.exe.config
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\bin\Debug\ConsoleProject38.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\bin\Debug\ConsoleProject38.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\obj\Debug\ConsoleProject38.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\obj\Debug\ConsoleProject38.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\obj\Debug\ConsoleProject38.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProject38\obj\Debug\ConsoleProject38.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\bin\Debug\ConsoleProjectBanknot.exe.config
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\bin\Debug\ConsoleProjectBanknot.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\bin\Debug\ConsoleProjectBanknot.pdb
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\obj\Debug\ConsoleProjectBanknot.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\obj\Debug\ConsoleProjectBanknot.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\obj\Debug\ConsoleProjectBanknot.exe
+C:\Users\Section1\source\repos\01072019_ConsoleApp\ConsoleProjectBanknot\obj\Debug\ConsoleProjectBanknot.pdb
