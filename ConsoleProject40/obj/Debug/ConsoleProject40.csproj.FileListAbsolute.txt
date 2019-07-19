@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\bin\Debug\ConsoleProject40.exe.config
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\bin\Debug\ConsoleProject40.exe
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\bin\Debug\ConsoleProject40.pdb
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\obj\Debug\ConsoleProject40.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\obj\Debug\ConsoleProject40.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\obj\Debug\ConsoleProject40.exe
+C:\Users\Section1\source\repos\c-projeler\ConsoleProject40\obj\Debug\ConsoleProject40.pdb
